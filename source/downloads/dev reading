@@ -1,0 +1,44 @@
+# paper reading
+
+| tag                | payment split                                                |
+| ------------------ | ------------------------------------------------------------ |
+| date               | Oct.26                                                       |
+| title              | [Lightning-dev] AMP: Atomic Multi-Path Payments over Lightning |
+| author             | Osuntokun and Olaoluwa                                       |
+| country            |                                                              |
+| Journal/conference |                                                              |
+| IF                 |                                                              |
+| citation           |                                                              |
+
+## study design
+
+
+
+
+
+
+
+## result
+
+The paper proposes a protocol called Atomic Multi-path Payment(AMP)
+
+
+
+
+
+## Discussion
+
+the paper discusses the idea of abadoning HTLCs and adopting the script-less micro-payments because it can maintain the security by blacklisting those cheating nodes. The premise is that nodes' reputations worth more than the value of a micro-payments.
+
+
+
+
+
+## my thought
+
+
+
+
+
+
+

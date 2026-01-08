@@ -1,22 +1,22 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "PlanetServe: A Decentralized, Scalable, and Privacy-Preserving Overlay for Democratizing Large Language Model Serving"
+    authors: <strong>Fei Fang*</strong>, Yifan Hua*, Shengze Wang* (Co-primiary author), Ruilin Zhou, Yi Liu, Chen Qian and Xiaoxue Zhang.
+    conference_short: NSDI
+    conference: 23rd USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2026.
+    pdf: https://arxiv.org/html/2504.20101v4
+    code: https://github.com/fffeifang/PlanetServe.git 
+    bibtex: ./assets/files/planetserve_nsdi26.bib
+    image: ./assets/img/PlanetServe.png
+    notes: "Acceptance rate: 22.1% (100/452)"
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Efficient Vector Search on Disaggregated Memory with d-HNSW"
+    authors: Yi Liu*, <strong>Fei Fang*</strong> (Equal contribution), Chen Qian.
+    conference_short: HotStorage
+    conference: The 17th ACM Workshop on Hot Topics in Storage and File Systems <strong>(HotStorage)</strong>, 2025.
+    pdf: https://dl.acm.org/doi/epdf/10.1145/3736548.3737822
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./assets/files/dhnsw_hotstorage25.bib
+    notes: "Acceptance rate: 33.9% (19/56)" 
+    image: ./assets/img/dhnsw_.png

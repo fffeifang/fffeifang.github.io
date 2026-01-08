@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a Second-year Ph.D student in the Department of Computer Science and Engineering at University of California, Santa Cruz. My advisor is Prof. [Chen Qian](https://users.soe.ucsc.edu/~qian/). I received my bachelor degree from the Departmeny of Computer Science and Technology, East China Normal University (ECNU) in July 2024.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Distributed System:** RDMA-based disaggregated memory systems, vector databases 
+- **ML Systems:** AI infrastructure
 
-## News
+<!-- ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore! -->
 
 {% include_relative _includes/publications.md %}
 

@@ -4,7 +4,7 @@ main:
     authors: <strong>Fei Fang*</strong>, Yifan Hua*, Shengze Wang* (Co-primiary author), Ruilin Zhou, Yi Liu, Chen Qian and Xiaoxue Zhang.
     conference_short: NSDI
     conference: 23rd USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2026.
-    pdf: https://arxiv.org/html/2504.20101v4
+    pdf: https://arxiv.org/pdf/2504.20101
     code: https://github.com/fffeifang/PlanetServe.git 
     bibtex: ./assets/files/planetserve_nsdi26.bib
     image: ./assets/img/PlanetServe.png

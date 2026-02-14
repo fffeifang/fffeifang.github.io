@@ -8,9 +8,9 @@ I am currently a Second-year Ph.D student in the Department of Computer Science 
 
 ## Research Interests
 
-- **Distributed System:** RDMA-based disaggregated memory systems, vector databases 
-- **ML Systems:** AI infrastructure
-
+- **Computer Networks & Distributed System:** RDMA-based disaggregated memory systems 
+- **Networked ML Systems:** : Co-design of ML serving and inference optimization with network
+- **RAG Systems:** Vector databases 
 <!-- ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.

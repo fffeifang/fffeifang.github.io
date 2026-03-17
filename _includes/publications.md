@@ -36,6 +36,9 @@
       {% if link.others %} 
       {{ link.others }}
       {% endif %}
+      {% if link.notes %}
+      <span class="publication-note publication-note-inline"><strong><i>{{ link.notes }}</i></strong></span>
+      {% endif %}
     </div>
     {% if link.artifact %}
     <div class="artifact-badges">
@@ -43,9 +46,6 @@
       <span class="artifact-badge{% if badge contains 'avaliable' %} artifact-badge-avaliable{% endif %}{% if badge contains 'functional' %} artifact-badge-functional{% endif %}{% if badge contains 'reproduced' %} artifact-badge-reproduced{% endif %}">{{ badge }}</span>
       {% endfor %}
     </div>
-    {% endif %}
-    {% if link.notes %}
-    <div class="publication-note"><strong><i style="color:#e74d3c">{{ link.notes }}</i></strong></div>
     {% endif %}
   </div>
 </div>

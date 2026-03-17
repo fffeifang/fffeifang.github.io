@@ -19,6 +19,8 @@ I am currently a Second-year Ph.D student in the Department of Computer Science 
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/posters.md %}
+
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/teaching.md %}

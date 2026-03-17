@@ -1,18 +1,33 @@
 main:
+  - title: "d-HNSW: A High-performance Vector Search Engine on Disaggregated Memory"
+    authors: <strong>Fei Fang</strong>, Yi Liu, Chen Qian.
+    conference_short: SIGMETRICS '26
+    conference: ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems <strong>(SIGMETRICS)</strong> , 2026.
+    pdf: https://arxiv.org/pdf/2603.13591 
+    code: https://github.com/fffeifang/d-HNSW
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./assets/files/dhnsw.bib
+    notes: "Acceptance rate: 15.2% (32/211)" 
+    image: assets/img/sig_overview_rebuild_stack.png
+    image_fit: contain
 
   - title: "PlanetServe: A Decentralized, Scalable, and Privacy-Preserving Overlay for Democratizing Large Language Model Serving"
     authors: <strong>Fei Fang*</strong>, Yifan Hua*, Shengze Wang* (Co-primiary author), Ruilin Zhou, Yi Liu, Chen Qian and Xiaoxue Zhang.
-    conference_short: NSDI
+    conference_short: NSDI '26
     conference: 23rd USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2504.20101
     code: https://github.com/fffeifang/PlanetServe.git 
     bibtex: ./assets/files/planetserve_nsdi26.bib
     image: ./assets/img/PlanetServe.png
+    artifact:
+      - Artifact avaliable
+      - Artifact functional
+      - Artifact reproduced
     notes: "Acceptance rate: 22.1% (100/452)"
 
   - title: "Efficient Vector Search on Disaggregated Memory with d-HNSW"
     authors: Yi Liu*, <strong>Fei Fang*</strong> (Equal contribution), Chen Qian.
-    conference_short: HotStorage
+    conference_short: HotStorage '25
     conference: The 17th ACM Workshop on Hot Topics in Storage and File Systems <strong>(HotStorage)</strong>, 2025.
     pdf: https://dl.acm.org/doi/epdf/10.1145/3736548.3737822
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
@@ -20,3 +35,4 @@ main:
     bibtex: ./assets/files/dhnsw_hotstorage25.bib
     notes: "Acceptance rate: 33.9% (19/56)" 
     image: ./assets/img/dhnsw_.png
+    image_fit: contain

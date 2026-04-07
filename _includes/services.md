@@ -9,3 +9,13 @@
     </a>
   </li>
 </ul>
+
+<h4 style="margin:0 10px 0;">Artifact Evaluation</h4>
+
+<ul style="margin:0 0 20px;">
+  <li>
+    <a href="https://mlsys.org/Conferences/2026">
+      <autocolor>MLSys, Artifact Evaluator (2026)</autocolor>
+    </a>
+  </li>
+</ul>

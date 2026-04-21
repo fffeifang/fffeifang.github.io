@@ -8,6 +8,11 @@
       <autocolor>IEEE/ACM Transactions on Networking (ToN), Reviewer (2025)</autocolor>
     </a>
   </li>
+  <li>
+  <a href="https://www.sciencedirect.com/journal/performance-evaluation">
+    <autocolor>Performance Evaluation, Reviewer (2026)</autocolor>
+  </a>
+  </li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Artifact Evaluation</h4>

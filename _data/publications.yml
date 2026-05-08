@@ -32,6 +32,7 @@ main:
     pdf: https://dl.acm.org/doi/epdf/10.1145/3736548.3737822
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    slides: https://www.hotstorage.org/2025/slides/Efficient%20Vector%20Search%20on%20Disaggregated%20Memory%20with%20d-HNSW.pdf
     bibtex: ./assets/files/dhnsw_hotstorage25.bib
     notes: "Acceptance rate: 33.9% (19/56)" 
     image: ./assets/img/dhnsw_.png

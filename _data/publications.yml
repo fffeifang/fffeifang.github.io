@@ -3,7 +3,7 @@ main:
     authors: <strong>Fei Fang</strong>, Yi Liu, Chen Qian.
     conference_short: SIGMETRICS '26
     conference: ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems <strong>(SIGMETRICS)</strong> , 2026.
-    pdf: https://arxiv.org/pdf/2603.13591 
+    pdf: https://dl.acm.org/doi/epdf/10.1145/3805634 
     code: https://github.com/fffeifang/d-HNSW
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: ./assets/files/dhnsw.bib

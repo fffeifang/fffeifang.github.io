@@ -16,7 +16,9 @@ main:
     conference_short: NSDI '26
     conference: 23rd USENIX Symposium on Networked Systems Design and Implementation <strong>(NSDI)</strong>, 2026.
     pdf: https://www.usenix.org/system/files/nsdi26-fang.pdf 
-    code: https://github.com/fffeifang/PlanetServe.git 
+    code: https://github.com/fffeifang/PlanetServe.git
+    slides: https://www.usenix.org/system/files/nsdi26_slides-fang.pdf 
+    talk: https://www.usenix.org/conference/nsdi26/presentation/fang
     bibtex: ./assets/files/planetserve_nsdi26.bib
     image: ./assets/img/PlanetServe.png
     artifact:

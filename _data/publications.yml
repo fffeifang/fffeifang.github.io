@@ -6,6 +6,7 @@ main:
     pdf: https://dl.acm.org/doi/epdf/10.1145/3805634 
     code: https://github.com/fffeifang/d-HNSW
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    slides:
     talk: https://www.youtube.com/watch?v=jmbGKYHe9TE&list=PLKuoVHAgEsK4&index=20
     bibtex: ./assets/files/dhnsw.bib
     notes: "Acceptance rate: 15.2% (32/211)" 
